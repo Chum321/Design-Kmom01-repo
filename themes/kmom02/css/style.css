@@ -6585,11 +6585,8 @@ body, h1, h2, h3, p {
   justify-self: center;
   grid-column: span 3;
 }
-.landingpage .wide3 {
+.landingpage .wide {
   grid-column: span 3;
-}
-.landingpage .wide2 {
-  grid-column: span 2;
 }
 
 @media screen and (max-width: 767px) {

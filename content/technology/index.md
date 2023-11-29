@@ -31,6 +31,6 @@ Technologies
 <a href="%base_url%?technology/git">GIT</a>
 </div>
 
-<div class="box wide3">
+<div class="box wide">
 <a href="%base_url%?technology/sqlite">SQLITE</a>
 </div>
