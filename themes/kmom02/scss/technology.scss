@@ -4,12 +4,13 @@ body, h1, h2, h3, p {
 }
 
 .box {
-    background-color: #3498db;
-    color: #fff;
+    background-color: $tech-box-background-color;
+    color: $tech-box-color;
     padding: 20px;
     text-align: center;
+    
     a {
-        color: #fff;
+        color: $tech-box-a-color;
     }
 }
 
@@ -19,7 +20,7 @@ body, h1, h2, h3, p {
     grid-template-columns: repeat(3, 1fr);
 
     h1 {
-        color: #fff;
+        color: $tech-landinpage-h1-color;
         justify-self: center;
         grid-column: span 3;
     }

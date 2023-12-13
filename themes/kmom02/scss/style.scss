@@ -5,9 +5,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/regular';
 
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables';
-
-
+@import 'variables-light';
 
 @import 'typography';
 
@@ -20,4 +18,3 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'image';
 
 @import 'technology';
-

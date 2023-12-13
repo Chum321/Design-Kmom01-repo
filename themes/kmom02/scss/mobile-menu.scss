@@ -15,8 +15,8 @@
 }
 
 .nav a, .nav-toggle {
-    color: #333;
-}
+    color: $mobmenu-nav-a-color;
+} 
 
 .nav-toggle {
     display: none;

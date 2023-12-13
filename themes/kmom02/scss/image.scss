@@ -1,7 +1,15 @@
-img {
+.logo img {
     display: block;
     margin: 0 auto;
     border-radius: 50%;
     width: 100px; /* Adjust the width as needed */
     height: 100px; /* Adjust the height as needed */
+}
+
+img {
+    width: auto;
+    height: 400px;
+    display: block;
+    margin: auto;
+    /* Other styles as needed */
 }

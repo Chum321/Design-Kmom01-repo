@@ -1,9 +1,9 @@
 code {
     margin: 0 0.1em;
     padding: 0.1em 0.2em;
-    border: 1px solid #65e9f0;
+    border: 1px solid $code-code-border;
     border-radius: 0.3em;
-    background: #050505;
+    background: $code-code-background;
     font-family: monospace;
     font-size: 0.85rem;
     line-height: 1.9824;
@@ -11,9 +11,9 @@ code {
 
 pre {
     padding: 0 1em;
-    border: 1px solid #65e9f0;
+    border: 1px solid $code-pre-border;
     border-radius: 0.3em;
-    background: #050505;
+    background: $code-pre-background;
 }
 
 pre code {
